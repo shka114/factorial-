@@ -1,1 +1,1 @@
-factorial of non negative numbers through iteration
+Factorial of non negative numbers through iteration
